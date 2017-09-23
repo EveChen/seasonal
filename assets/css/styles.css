@@ -1,0 +1,37 @@
+body {
+  font-family: 'Asap Condensed', sans-serif;
+  font-size: 24px;
+  color: #434343;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p{
+
+}
+
+.center{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.menu-area{
+	margin-left: 90%;
+}
+
+article > div{
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+section{
+  margin-top: 40px;
+}
+
+.image-area{
+   float:left;
+   width: 50%;
+}
+
